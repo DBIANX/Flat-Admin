@@ -1,0 +1,11 @@
+- Gasto comun
+  Historial de pago
+  Acceso a su información solamente
+  Pagina principal del gasto comun visible y total visible a todos los condominios (reflejar gc actual)
+- Feed de Noticias
+- Normativa actual disponible
+- Convocatorias
+- Contacto
+- Consultas y respuestas con pdf escaneado en caso de ser necesario
+- Cómodo para el propietario
+- 

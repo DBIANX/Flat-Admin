@@ -1,0 +1,157 @@
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll.config
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.pdb
+C:\Users\LoneWolf\Documents\Visual Studio 2015\Projects\gaudiAdm\gaudiAdm\bin\MySql.Data.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll.config
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.HtmlEditor.Sanitizer.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\MySql.Data.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.pdb
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.xml
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.pdb
+C:\Users\gonzaja25\Documents\Visual Studio 2017\Projects\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll.config
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.HtmlEditor.Sanitizer.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\MySql.Data.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.xml
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csproj.CoreCompileInputs.cache
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\App\gaudiAdm\gaudiAdm\bin\Newtonsoft.Json.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll.config
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.HtmlEditor.Sanitizer.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\MySql.Data.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Newtonsoft.Json.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.pdb
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.xml
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csproj.CoreCompileInputs.cache
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\Jován\Downloads\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll.config
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\AjaxControlToolkit.HtmlEditor.Sanitizer.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\MySql.Data.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Newtonsoft.Json.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\HtmlAgilityPack.xml
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csproj.CoreCompileInputs.cache
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive - Abbott\Respado Proyectos\Gaudi\Gaudi\App\gaudiAdm\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\csc.exe
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\vbc.exe
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\gaudiAdm.pdb
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\AjaxControlToolkit.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\AjaxControlToolkit.HtmlEditor.Sanitizer.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\HtmlAgilityPack.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\MySql.Data.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\HtmlAgilityPack.pdb
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\HtmlAgilityPack.xml
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\obj\Debug\gaudiAdm.csprojResolveAssemblyReference.cache
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\obj\Debug\gaudiAdm.csproj.CoreCompileInputs.cache
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\obj\Debug\gaudiAdm.dll
+C:\Users\gonzaja25\OneDrive\Proyectos\Proyectos VS\Flat-Admin\gaudiAdm\obj\Debug\gaudiAdm.pdb
